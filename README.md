@@ -25,12 +25,13 @@ etc.
 
 # 🖥️ Password generator 💻
 Generates a random password using ***random***.
-It works by randomly chosing letters, numbers and symbols from a list inside the code and then mixes them and shows the result.
+It works by randomly chosing letters, numbers and symbols from a list inside the code and then using ***random*** we chose a random list of letters wich indicate where the numbers, symbols and letters should go, and then, shows the result. It`s that simple!
 
 
 
 
 # Password Toolkit is using the MIT licence
+Everyone can safely modify, use and sell the project without worying.
 
 
 
