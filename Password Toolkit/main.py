@@ -53,7 +53,7 @@ def menu():
     print("|-(3)How strong is my password?         |")
     print("|-(4)How do i protect my passwords?     |")
     print("|-(5)Password generator.                |-This program was made for educational purposes.-")
-    print("|-(Anything else)Exit.                  |               *WARNING: BAD ENGLISH")
+    print("|-(6)Exit.                              |               *WARNING: BAD ENGLISH")
     print("-----------------------------------------")
 
 #CHOICES------------------------------------------------------------------------------------------
