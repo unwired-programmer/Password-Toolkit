@@ -1,4 +1,3 @@
-****Message me on reddit: Unwired-Programmer****
 # ⭐ *[--(Password-Toolkit)--]* ⭐
 ***(The project is not perfect, that's why i need your help! View the code and request updates!)***
 Password Toolkit is an open-source project written in Python, originally intended to help me learn the Python programming language better. Now my project can be used and modified by anyone, helping others learn as well.
